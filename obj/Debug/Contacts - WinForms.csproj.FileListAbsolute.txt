@@ -1,0 +1,20 @@
+E:\ADO.NET\Contacts - WinForms\bin\Debug\Contacts - WinForms.exe.config
+E:\ADO.NET\Contacts - WinForms\bin\Debug\Contacts - WinForms.exe
+E:\ADO.NET\Contacts - WinForms\bin\Debug\Contacts - WinForms.pdb
+E:\ADO.NET\Contacts - WinForms\bin\Debug\ContactsBusiness Layer.dll
+E:\ADO.NET\Contacts - WinForms\bin\Debug\ContactsDataAccessLayer.dll
+E:\ADO.NET\Contacts - WinForms\bin\Debug\ContactsBusiness Layer.pdb
+E:\ADO.NET\Contacts - WinForms\bin\Debug\ContactsDataAccessLayer.pdb
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts - WinForms.csproj.AssemblyReference.cache
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts___WinForms.Form1.resources
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts___WinForms.Properties.Resources.resources
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts - WinForms.csproj.GenerateResource.cache
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts - WinForms.csproj.CoreCompileInputs.cache
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts.7BDD39B1.Up2Date
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts - WinForms.exe
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts - WinForms.pdb
+E:\ADO.NET\Contacts - WinForms\obj\Debug\Contacts___WinForms.AddEditContact.resources
+E:\ADO.NET\Contacts - WinForms\bin\Debug\CountryBusinessLayer.dll
+E:\ADO.NET\Contacts - WinForms\bin\Debug\CountryDataAccessLayer.dll
+E:\ADO.NET\Contacts - WinForms\bin\Debug\CountryBusinessLayer.pdb
+E:\ADO.NET\Contacts - WinForms\bin\Debug\CountryDataAccessLayer.pdb
